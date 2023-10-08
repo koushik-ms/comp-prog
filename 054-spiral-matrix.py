@@ -16,19 +16,6 @@ class Solution:
 
         return seq1 + seq2[1:] + seq3[1:] + seq4[1:] + rest
 
-# >>> [row[1] for row in matrix]
-# [2, 5, 8]
-# >>> [row[1] for row in matrix[0:3]]
-# [2, 5, 8]
-# >>> [row[1] for row in matrix[0:2]]
-# [2, 5]
-# >>> [row[1] for row in matrix[2:0]]
-# []
-# >>> [row[1] for row in matrix[0:2:-1]]
-# []
-# >>> [row[1] for row in matrix[2:0:-1]]
-# [8, 5]
-
 if __name__ == "__main__":
     matrix = [[7],[9],[6]]
     output = [7,9,6]
