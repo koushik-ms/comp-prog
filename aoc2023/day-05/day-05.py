@@ -1,5 +1,7 @@
 from p01 import al
 
+flat_map = lambda f, xs: [y for x in xs for y in f(x)]
+
 def part1():
     print("AoC 2023: 5.1")
     ss = """45 77 23
@@ -84,29 +86,25 @@ humidity-to-location map:
 def map_pairs(tl):
     ss, ts = tl.split("\n\n", maxsplit=1)
     sl = [ int(v) for v in ss.split(": ")[-1].strip().split()]
-    ll = []
+    ans = None
     for i in range(0, len(sl), 2):
-        for v in range(sl[i], sl[i]+sl[i+1]):
-            for m in mappers(ts):
-                v = m(v)
-            ll.append(v)
-    return min(ll)
+        v = [(sl[i], sl[i+1])]
+        for m in mappers(ts, tfgen=get_interval_mapper):
+            v = flat_map(m, v)
+        minv = min(v)
+        if ans is None or ans > minv[0]:
+            ans = minv[0]
+    return ans
 
 def map_through(tl):
     ss, ts = tl.split("\n\n", maxsplit=1)
     sl = [ int(v) for v in ss.split(": ")[-1].strip().split()]
     ll = []
     for v in sl:
-        # print(f"{v} -> ", end='')
         for m in mappers(ts):
             v = m(v)
         ll.append(v)
-        # print(v)
     return min(ll)
-
-def mappers(tl):
-    sections = tl.split("\n\n")
-    return [get_mapper(section.split("\n")[1:]) for section in sections]
 
 def get_mapper(ss):
     def trans(lt, s):
@@ -117,5 +115,35 @@ def get_mapper(ss):
     gf = [[int(x) for x in v.split()] for v in ss]
     return lambda x: trans(gf,x)
 
+def get_interval_mapper(ss):
+    def trans(lt, si):
+        sis, siw = si
+        ans = []
+        # assume lt is sorted by ss (start of source range)
+        for ds, ss, w in lt:
+            if siw <= 0:
+                break
+            if sis < ss:
+                tiw = min(siw, ss-sis)
+                ans.append((sis, tiw))
+                siw -= tiw
+                sis += tiw
+            if siw > 0 and (ss+w) > sis:
+                tiw = min(siw, ss+w-sis)
+                ans.append((ds+(sis-ss), tiw))
+                siw -= tiw
+                sis += tiw
+        if siw > 0:
+            ans.append((sis, siw))
+        return ans
+    il = [tuple(int(x) for x in v.split()) for v in ss]
+    il.sort(key=lambda e: e[1])
+    return lambda x: trans(il, x)
+
+def mappers(tl, tfgen = get_mapper):
+    sections = tl.split("\n\n")
+    return [tfgen(section.split("\n")[1:]) for section in sections]
+
 if __name__ == "__main__":
+    part1()
     part2()
