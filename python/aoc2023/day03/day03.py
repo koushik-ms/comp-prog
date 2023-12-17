@@ -91,10 +91,10 @@ def get_gears(mat):
                     if i < (h - 1) and mat[i + 1][j] == "*":
                         gear_loc = (i + 1, j)
                 if eat_number and gear_loc:
-                    print(f"Adding: {(gear_loc, number)}")
+                    # print(f"Adding: {(gear_loc, number)}")
                     gears.append((gear_loc, number))
-                else:
-                    print(f"Not a gear: {number}")
+                # else:
+                    # print(f"Not a gear: {number}")
             j += 1
     ans = 0
     gears.sort()

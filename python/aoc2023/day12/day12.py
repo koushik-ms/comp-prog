@@ -90,7 +90,6 @@ def part2():
     rec, counts = ts.split()
     rec = "?".join([rec]*5)
     counts = ",".join([counts]*5)
-    print(rec, counts)
     print(dm(rec, counts))
     tl = """???.### 1,1,3
 .??..??...?##. 1,1,3

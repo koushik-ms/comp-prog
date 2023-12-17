@@ -7,7 +7,6 @@ def part1():
     tl = ["1abc2", "pqr3stu8vwx","a1b2c3d4e5f","treb7uchet"]
     print(cvs(tl))
     assert(cvs(tl) == 142)
-    print(al[0:3], al[-3:])
     print(cvs(al))
 
 def part2():
@@ -22,7 +21,6 @@ xtwone3four
 zoneight234
 7pqrstsixteen""".split("\n")
     print(cvs(tl, cal))
-    print(al[0:3], al[-3:])
     print(cvs(al, cal))
 
 v = {
@@ -58,4 +56,5 @@ def cvs(l, op=val):
     return sum([op(e) for e in l])
 
 if __name__ == "__main__":
+    part1()
     part2()

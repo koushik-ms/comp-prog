@@ -50,4 +50,5 @@ def bs(t, s):
     return t - 2*r + 1
 
 if __name__ == "__main__":
+    part1()
     part2()

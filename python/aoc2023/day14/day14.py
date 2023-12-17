@@ -50,25 +50,32 @@ O.#..O.#.#
 .......O..
 #....###..
 #OO..#....""".split("\n")
-    cycle(tl, 1000)
-    print(pprint.pprint(cycle(al, 1000), compact=True))
+    pt = cycle(tl, 1000)
+    print(pt)
+    assert pt == 69
+    pa = cycle(al, 1000000000)
+    print(pa)
+    assert pa == 104815
 
 def cycle(mat, spins):
     G = [[c for c in row] for row in mat]
     sh = {}
-    for i in range(spins):
+    s, i = -1, 0
+    while i < spins:
         for op in [do_north, do_west, do_south, do_east]:
             op(G)
         s = ld(G)
         if s in sh:
             sh[s].append(i+1)
             if len(sh[s]) > 2:
-                print()
-                print(f"{s}: {sh[s]}")
+                loclist = sh[s]
+                if loclist[1]-loclist[0] == loclist[2] - loclist[1]:
+                    d = loclist[1] - loclist[0]
+                    i += d * ((spins - (i+1))//d)
         else:
             sh[s] = [i+1]
-        print(".", end='')
-    return sh
+        i += 1
+    return s
 
 def ld(G):
     h = len(G)

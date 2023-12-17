@@ -11,6 +11,9 @@ def part1():
 10 13 16 21 30 45""".split("\n")
     print(spv(tl))
     print(spv(al))
+
+def part2():
+    print("AoC 2023: 9.2")
     print(rpv(al))
 
 def rpv(l):
@@ -32,3 +35,4 @@ def adjacent_difference(l):
 
 if __name__ == "__main__":
     part1()
+    part2()

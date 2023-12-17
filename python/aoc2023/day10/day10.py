@@ -55,9 +55,9 @@ L7JLJL-JLJLJL--JLJ.L""".split("\n")
 def cs(mat):
     ans = 0
     clo = ["O"*len(mat[0]) for _ in mat]
-    print(clo)
+    # print(clo)
     ns = ll(mat, clo)
-    print(clo)
+    # print(clo)
     for i,x in enumerate(clo):
         io = 0
         on = False
@@ -79,7 +79,7 @@ def cs(mat):
                 # print(f"B at ({i},{j}): io = {io}")
             else:
                 ans += io%2
-                print(f"{i},{j} {io%2} => {ans}")
+                # print(f"{i},{j} {io%2} => {ans}")
     return ans
 
 def ll(l, clo=None):
@@ -119,4 +119,5 @@ def gsc(l):
     return 0,0
 
 if __name__ == "__main__":
+    part1()
     part2()
