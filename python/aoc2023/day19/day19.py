@@ -137,8 +137,12 @@ hdj{m>838:A,pv}
 {x=2036,m=264,a=79,s=2244}
 {x=2461,m=1339,a=466,s=291}
 {x=2127,m=1623,a=2188,s=1013}""".split("\n\n")
-    print(rating_numbers(*tl))
-    print(rating_numbers(*al))
+    pt = rating_numbers(*tl)
+    print(pt)
+    assert pt == 19114
+    pa = rating_numbers(*al)
+    print(pa)
+    assert pa == 374873
 
 
 def part2():

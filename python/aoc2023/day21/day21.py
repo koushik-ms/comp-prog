@@ -48,7 +48,9 @@ def fill(sr, sc, limit, part1=True):
 sr, sc = next((r,c) for r, row in enumerate(tl) for c, ch in enumerate(row) if ch == "S")
 print("AoC 2023: Day 21.1")
 # print(sr,sc)
-print(fill(sr, sc, limit=64, part1=True))
+pa = fill(sr, sc, limit=64, part1=True)
+print(pa)
+assert pa == 3746
 
 print("AoC 2023: Day 21.2")
 L = 26501365
@@ -132,10 +134,12 @@ lc_tl = fill(h-1, w-1, h+h//2-1)
 # reached and thus supersede any other paths for the same tile.
 
 # Finally we add all the blocks reached in all the tiles
-ans = (
+pa = (
     outer_points + inner_points +
     top + right + bottom + left +
     gw * (sc_tr + sc_br + sc_bl + sc_tl) +
     (gw-1) * (lc_tr + lc_br + lc_bl + lc_tl) 
 )
-print(ans)
+print(pa)
+assert pa == 623540829615589
+

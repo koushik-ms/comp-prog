@@ -154,8 +154,45 @@ def part1():
     assert pa == 16018
 
 
+def sum_pos(traj):
+    # 3 co-ordinates, 3 velocities are unknown for the rock
+    # rock hits all hailstones which means for every hailstone
+    #   x + vx*t = x_rock + vx_rock * t
+    #   ... and so on for y and z for same t
+    # t is potentially different for each hailstone. Since we
+    # have only  6 unknowns, we don't need all the input - either
+    # the hailstones line up or they don't.
+    # Each hailstone adds a time variable, so solving for 3 
+    # hailstones is sufficient. We must use linear algebra, apparently
+    # sympy is good at this. numpy would have also helped.
+    import sympy
+    x0, y0, z0, v0x, v0y, v0z = sympy.symbols('x0 y0 z0 v0x v0y v0z')
+    t1, t2, t3 = sympy.symbols('t1 t2 t3')
+    times = [t1, t2, t3]
+    equations = []
+    hs = [tuple(map(int, l.replace('@', ',').split(','))) for l in traj[:3]]
+    for i in range(3):
+        x, y, z, vx, vy, vz = hs[i]
+        t = times[i]
+        equations.append(x + t*vx - x0 - t*v0x)
+        equations.append(y + t*vy - y0 - t*v0y)
+        equations.append(z + t*vz - z0 - t*v0z)
+    ans = sympy.solve(equations)
+    return sum(ans[0][symbol] for symbol in [x0,y0,z0])
+
 def part2():
     print("AoC 2023: 24.2")
+    tl = """19, 13, 30 @ -2,  1, -2
+18, 19, 22 @ -1, -1, -2
+20, 25, 34 @ -2, -2, -4
+12, 31, 28 @ -1, -2, -1
+20, 19, 15 @  1, -5, -3""".splitlines()
+    pt = sum_pos(tl)
+    print(pt)
+    assert pt == 47
+    pa = sum_pos(al)
+    print(pa)
+    assert pa == 1004774995964534
 
 
 if __name__ == "__main__":

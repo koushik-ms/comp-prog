@@ -13,8 +13,12 @@ def part1():
 .-.-/..|..
 .|....-|.\
 ..//.|....""".split("\n")
-    print(ce(ts))
-    print(ce(al))
+    pt = ce(ts)
+    print(pt)
+    assert pt == 46
+    pa = ce(al)
+    print(pa)
+    assert pa == 7199
 
 ddd = {
     ".": {
@@ -94,8 +98,12 @@ def part2():
 .-.-/..|..
 .|....-|.\
 ..//.|....""".split("\n")
-    print(all_pos(ts))
-    print(all_pos(al))
+    pt = all_pos(ts)
+    print(pt)
+    assert pt == 51
+    pa = all_pos(al)
+    print(pa)
+    assert pa == 7438
 
 def all_pos(mat):
     h = len(mat)
@@ -122,29 +130,3 @@ if __name__ == "__main__":
     part1()
     part2()
 
-
-"""
-.|...\....
-|.-.\.....
-.....|-...
-........|.
-..........
-.........\
-..../.\\..
-.-.-/..|..
-.|....-|.\
-..//.|....
-
-
-
->|<<<\....
-|v-.\^....
-.v...|->>>
-.v...v^.|.
-.v...v^...
-.v...v^..\
-.v../2\\..
-<->-/vv|..
-.|<<<2-|.\
-.v//.|.v..
-"""
