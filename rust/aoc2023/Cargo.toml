@@ -1,0 +1,9 @@
+[package]
+name = "aoc2023"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+indoc = "2"
+regex = "1.11.0"
+phf = { version = "0.11", features = ["macros"] }
