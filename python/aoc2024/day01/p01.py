@@ -1,1000 +1,1002 @@
-al = """tmmnhlxzpj1eightldxhjnone97
-9fivekfpl855mjmfdqzvbn
-two29eighteight1
-4md
-sixbrqklb347
-6sevenninexpnbgbr11three15
-4zggkljkcqthree7
-7lxjkqhmxcxsevennhszsbxzdfsonehnsrcfour9
-jtpmfoureightvtjmlshbfour6nvjkqnddp3
-twofive2fourfive1dvnrrvjr
-twoeightnq6ninepxv
-39sixgphfvninexts71five
-seven3two8
-six59jhtfvv1five6
-7871three915
-prrvrjlpgxpjdxfchqonepchqbhqxx9nbrvh
-gneightwo5txxzpkctwojvrcgbd9
-329
-5mnmpsevenseven
-ccshz8
-threeqthree5eight6blzzh
-moneight3onepkjskr9
-ctdk8zkhzzkt
-nbfrmvlnmbeightbxs55
-six5mrrvsxqhqj162sevenntsnztmsdbnine
-78dlfqtsplmnbrtfive3tskrrjnqktrkrfdxps
-rljhmtwotwo5sevenfourtwo
-6drnzxz9fourfourfourxfxsxhlzqx
-7two8dvhghtd
-five277
-four7mfhfcpqjjvlxvbs
-sixhdxxhrzrsjthree2zddffivevzkcppvpshh
-hnsnbldnp5hdfzqnine
-kbdfmgjtfxzszl6fourtwo72eight
-4fourxrtvjh
-dzbfkvzlg6ngnrsevenzfqmlldc7
-eighthg62txtxhkl9
-5dckmbonetwolgsixvvftfive
-twordkznxxffour3jgxhl95
-eightsix4twofoursgdlfkjonefoureight
-9qlh1ztk9
-fourrmbrseventwo4pmdmlkp
-sevenfive6gbcfslxhkmqlvspvgjgpsrffive22
-34threejhd9one83
-577twomg
-threethreezcl9tkhjgqhknrmscpppjnnlnrtrx1
-tjxtcnxbq1sevensixfhhnfour
-4six3kcnkonegxpfj
-knhpcljnjhfive5seveneightck7three
-rvrr1
-jjqvphczpqdmszgbqnsevennine81
-54568
-97zvmkrslhzvvrjgknjsevenfive1four
-8onenine4mpfdsixfzhtpz7
-rdgjphdxkmmrh6fiver9ninetwojgxpghhp
-gdhk3twonine91zzzmmone4
-qsxvlxkfnpvdthqteight24nine4
-sixeightthreesixfivevf3qfpvzvnt
-five4nkqfcdpqn3fourcqfjjkdnjxf
-xkpmtmhxlxfourvdsjmpsltr1xk7
-threezqkb4
-h2ckfnlk
-kzngqxt27fourtwo
-lgzhoneeight7fivenineseven5
-2fivesmzgdnsqcm
-4n442ptkfx
-sbkdpn2nhdjqc
-bh22eightdqvhpspx
-hdmdg7kjr4
-three3jttm7fourfourckm7spkhqdtv
-1twoone2911
-dvhmdbjlhfqllkrgnine1ttjvczdsrk5trngnvlnfnone
-two3pbdvzqonefour3bzktxlgdeight
-7eightjcjkqldhpqfrlt9nine
-2jvdfdcsnnsonejbxqrmhdjthreesix
-7pxbhzglcb283sixnine4
-38npgninefive2two6
-jqeightwo7dzfcxppxgtsixfl966qzlbpczz
-sevennine3bvdzkrjff
-25hninehtwothreeseven
-xdrkprvdmd8fiveftwopkcbfhtxmtkjmklzpphjjtqjfvvh
-2slfjzgflnhmc
-2bqnbkd
-twothreeeighteight8gnhccvzfour8
-3six2two3btddfjt1
-eightbcmnpnmq7hcqd1kkbjmtnlcjsixoneightvrh
-v99zsseven92five
-fourzngffive1five5threethree
-onesix36
-sixtwo6qlfm6onetwogfive
-pkzjfive4sqknbg4gqbqmdzczcqrds
-9sdgnqdnxqpjgmfourfour8lbrskpnglp
-sevennpxtlltn7eightzfhkltfsixsixtwo
-xjhfour9
-7rmtwo
-nine1seven8
-oneqcnrjbqnbzfbxz4eight68
-seven5four968five
-lhzgtxxdr7seven
-lgconeighthtrvbkp17one8jsxhbxhvqr
-41three
-seventstcfbjbmsixtwothreefourtwojsbrdlml2
-8one5nbpmdhcfjhtwohbjhmzttmr9
-cvcl644eightmzzsqstzjkn
-mxgj1seventwolttplthree
-33nine63twosixrgrrzsgj
-seveneight1
-jqdp16six
-893plhbfvfc2threetwo3
-6qhfhzsclsmvcpxfjxkl
-two8nine
-sevenfivetwo1pn
-threeone4fkpdk81trqfivepgrvdbd
-8rtwofhfthngbnphrsn8fr1mq
-235
-pztmvdb9fiveeighthgqvnine6
-8jqv
-9sevenhcdntl4eight
-682onepdphj5
-fstfvxrxt86jkzmlvnzfivethreecbnsevenfive
-eightfive4ninenine3ktndjdhb4
-7twoflphhdcs
-9thvn912mdcpfn8
-pxfvghsvtxsevenfivesevenninecck7onenine
-sixvd2xmnxrtvfhcng
-fiveoneseven96eighttwo
-eighttwo6fourgggthreefzpbxmq
-9zlkfnbfb
-nhmssnx2
-oneeighteightfive5mlzbnxlgthree7nzkhl
-rqrxzkpmglsixvmvrcgtlptkz9grhvhstknq
-three12five44onevglccksrpgxkc
-3oneseven4mjtwofour
-fmcmjgvbfonesix3ninemninefivethree
-sixvlvxxtwo77
-fivefour4
-51six
-37lrmmfmjjn8six
-twozzfcz3nineslvv8one
-1fourninesix6sixmjngkmsntrnvmtwonehrn
-oneeight3four12hqnjxlfxtg1
-9dlqkqgbsvxqnrk
-1cxfptmfnschgkdl
-threefccrrscjcg194
-seven65kn34five9
-2lrnxvs1
-nine91bqvl2six8five
-twoeight9xkmmgkmkhx
-rpspvmxkfqtknqpbvcmb9zrqvkzgszbkcone21
-5oneklx3
-fkjsjg5seven75gjkh3
-eightrccsmczqbn92eightcxgrmpsljztwo
-pktwopzqjjmsixshkkqkkxglbzqrxr6
-4mdfqlone43nine99
-34fnkjkfbqfbfmnbskfzvspgrslljmmseven
-89one72nine4g6
-two5fjzmceighttworqjlsdt6five6
-pneightssjlhtzqvvzcgxjczqb8
-9jnlthv2djkxqgcfmlzvtwonek
-fivesevencqmhsd2zdmld
-fmnmqbnhkg1nnsnsdjhfivenvvztkfournine
-8zxcqlrftmvvmvg1ttcpclfvjggblp6four
-prlrhh8sevensixthree
-kmdnxq3
-653
-l6vntwo9
-lmkqjnxjrqqcd2two
-vpfvlklftthreevdnsnvsix2
-33ninembqcjndfl6
-two6rqvdctwo
-521onethreepsqbgd1six
-8k
-qxqhpv2sixfxzlcdnfhdj
-six8gpxkmlqvsvx2eightfour7
-dxfrgznlvtsxj2fourdzdml
-tnjfm2onetwo92two5
-eightfiveninejncfknkkone825prnmmxzcdp
-9sevenfive23
-sixninelclnzpdhd7vrfvsksrnine1z
-sevencqsleightone6
-nine9seven495eight7
-xvf6xdsrlqcchrzpskgvfiveseven
-three8t22eightmhbsfnkhqdmsqpfzhthree
-6oneldljnzdsevenbvkcmgvhstqslblgfxrkfour
-9ftkbeight6rpf
-8lsmnpbdt6fourgbrfhpmjgkrlc
-2five1hlgtjplhfive
-ninesixhqdcsxlsm4991cmlmrkgrgqmdbmtxd
-zznhdgkcrq21three
-qdgtfbzxh1
-loneight7ninesvjgvfsmfjd
-3mj7313gbxcdcnmvjzqkbg9
-vnxknklscmhjrxnzbp9qzfiveeight
-2lxbtvthreetczjsonepjmrsflhndone
-jsixbqxkjlzxone8onefbqgnhjmnq
-fpsbqpx5drptgkvtwothreeninexcrm8four
-rhlcnnzvcone484three5
-6threefive
-sevenrkldjeight1
-16744qgmmpxxn3nine
-xq1eight
-sgrfourc6grhd
-9three944six5rnzj
-ztjfqjzzsq6sixsevenseventwosbztgl32
-eightztmtzkmjdvjxhrnbrph3dsdmkrndd8zflhmtpx
-two3onevgrjshfl5mkdxmdkkrtthreesix
-srkgcdmrpd5
-4ltngqjpt2five
-seventvxkdvqlbd3eightpmjpk
-3three5
-nine5d
-mrrbl8
-frvtwojcvppjbtpp3kpzzf
-eight4oneonefour
-nineptjfjfourthree1six
-jvlmgcpxgckgzjpczfvjkthree2
-twotwoeighteighttwo7
-cbpf5threedsvlvxfcx3fourone9six
-17seven62sixjklrjqphfcbvmnscttwo
-jsix75qcrrcjthz5jnmxqsfoursix
-sevensrkcschst2
-two7nine888fourthreenine
-3threethreepnx5
-sevensevenvlttfbxmjg1five
-233eightmxbmdgdthgxgv
-6three27one
-fouronecqgspprhgt8rzshnskmn
-364dclhtvrkptqlnmjkpkpjxtrfm1seven
-3cdf61fttxmkpbh63c
-eight1dpdmptdnineeightsixeight7rvzz
-four8sixsixfourldrxfszpnlcmkjxnsrqrone
-krhgrd2ninesixxftmtq2sevenmkld3
-79onesix
-twozjgx1qdznxdgzpzghqf
-rvpfz675fpzvmskq6
-dnnnfxcrxhninefourjgdkprtqbv63
-rhndq8zvftnvqm8
-5onetvnhptcqlm9z1
-49nineqgsjrz
-28kbcjbkmrvqninetmmqdjjhxoneprtkhdsllc
-threesixonenine9
-threevthxddrxzqbcninepmfczcppskbj7
-blnxkpbbgndjdsx6
-vloneightninesixsixchp3eightnine9
-srgcvgghjjsixgsnqmlfive672svfb
-glkzvd84
-vr7two24threethree
-xlfdr1fivelfxvnjpz
-3frsxgsmzrh7
-4one6hrtnb3
-eight44fivesevenrhsxbfbntseven
-9two9cfffqd
-pbqp3ninegqgxvpkdtjnqsb3zshhlxsrkrvjm
-7seventwothreecgbbvqftwo
-3h
-7bgfrqgmqsix2nine5xgbr
-zdkqfshrthree4nrttmzjb2one
-one15
-2sixdx4
-128ninenzcfmbgq3sckqrcnkvgthreektk
-seven2zqgrjjsq1four8sixeight9
-4four11two9dszblknpzgrcxbsmp
-hcxcxjpndpeightfourf82three
-sevenrpsevenxzcrp18five
-rcklcnqxgbtszdxseven6
-znbkksfjtltngpdgsz2grsixxszeight3
-59cvcvfourvcvvshxone4bqnmdpr
-sevenseven7
-2sixone9gkzkxone58mpvpsj
-2bhhzpkjvtbpqf7mkrskcqfourdbqfkkxzqbk
-three6fourtrqpjxzgfones8
-oneeightfive19seveneight8
-hhjsqdqhsqdvkmnqeight26scjgksix
-sixfourfivetkmvpdvdkfhvfourthree8
-6264fivendcxsmjdninetwo
-ssixsevenfmmzpxddc4zbvcvb46
-tqfgpdsqccdfvhjtwovsnine1seven
-ninesvdlpthree29k
-gnoneightqpsgskpqsjsmfiveffzfklltxthree7vf
-fourgvonelxrqbddksnqljsmqr18four
-four18threethreeeightnine
-nz7mhblpprsgpg
-nine3two5glbgtkhdhv87lptxgnbsl
-5onetwoone78
-6fourtwo3smkssmcvpsv3five
-ps7xxfxmqmvkzjtwo
-nbsbfqqqpt52jvphpgp
-zgxvgqjklftvtrmfour2twoone5hknxfkr
-4two6sevenninehpcpbtvrgc
-seven4one22ztmlsc5six
-rvtlfsktxp7four74foursixlvg3
-threetwo4seven
-kdnstttczthreeonetwotwosevensevenccq2
-9sixqjvcnxkvbmqrqvsskf81
-3jrdhvjsknddqdgzfmhqcdmkskxfnxvxlqtp7
-39brqqqlcjqk4one
-onedddpmznxcd7three
-415nineonerbpvzxszfone
-fivekfvsxdstm8
-47sixcdsstnjldeight6
-6threerhtchlzbpssjqdhs22seven
-foursix9
-mqqdrpzmqrsixqsdndm6mbgvkone
-czreightcjlznine9cpdtdhcp
-298onespqbfmmm
-39onefrfkvknine9
-7hsdbsbfrft
-shfpxrfrb45rgnpcrqdtsonethreezcgngh
-zbeightwobtdhr9
-9lone2zrbfzqthzkrrnine
-lvhlkdzqsvfive4bpqvkdmscfivem7seven
-fcknbkcqrxclntnine445four1
-five57gnsfiveonejqtzkcjmzp
-threeseventxbszffourtwokztjpcbvv3three
-mspeight48fourxxvxmxc88
-one67
-gkl3three2mcljzvkpx
-threengltpjhdhmjr6sevenntcsqqf5
-meightwofggvmkr7six7
-twoxjcbfjjcmq1kf
-four7mseventwoone64
-7hnhhcjnrxsevenffmjlvhnjvjbkgzqmhmonesixhhczncfnhbgsg
-hppxtkvseven8g314
-fivenine7sixfivesixlmnlqcg
-4gdzjjjsvkl5sevenfour7
-bgkldxbvsqtpdf17lgvbl4
-3zfm
-dvoneight4
-three1eight1xpmvzlfiveseven
-5ninethree6dvq
-69lgmqxpmdxtq
-6one8xszfmzfvpxmhv
-three971
-tdklrczbqgjhhpz2gkh92two96
-6lrxbnvlh5kqqzbksixmkhfkc
-5ninetpqplfour4
-eightgjfjqbzlht742
-lvjtvngcpl2four
-nineoneeight9twofivevpfhtkkdmzz
-sixcdncmsrzzt97five8tqjthree
-tnchfkdmfzjsonesix76
-fourl8ninepjbmkxzdsjsxdj
-twozqs7
-zgsggdkgkpdlr5one
-zzdkcsevenqggrdzrcdllqqpdnrbsevenvhsfnr68
-5sevennine6t
-4rlmrv
-six5mlgsevenrflgjfsn1lrtcnhhsc7six
-6ff1six
-nine87eightsxrqxj
-vnvsfqllfbh6fivesixsjpgzrvdzb
-six5twoseven
-5fourthree3pszxtfivesixtjfdnrxt
-seven7jmngpvqnkf979lkgzhbvbltztcsqhr
-fmrjztlfsqrone88
-ggjpbpjmdgsix9one
-76fourlnjlthhnsix5qqjsxxznr2
-1ninesevenhlbeightfour
-1slsghqc
-five4dhdkdvrcpvzcckjrrrjfsonesix5
-2lgkbfbbfour3
-5lgkccrp3djlrhzdxck
-5kst8fourkljsstq4fbvjmfznk2mhd
-3ffmlqrxnc
-khxq29
-gxqbkhrone22371lvfsbdvgxt5
-ntfpgz1
-mnbvfqbrgncqlgk5eightxnjgslfqq
-four8txcjdvjcqxzdhlthreezslht
-933fiveonetwofkprnvkd5
-5pjcpqnqsmfqbtp85kk
-6hcvfgzpl7six61
-3fzpgdtxpntlcfptlks4
-5five8
-two2mfgrdn56sixfour
-llrgftj52tpdxttlnqzpzfsix
-twothreeeight2nine1gmz4five
-kgmjhhxl3vk55six32five
-twotwo2ninethree
-nine6dgxbvljkpcfourrrc28three
-one1rspjbqx
-7lxmkdvhhseven
-sevenninethree51
-fxbstzjvtffive185five2
-one1fivefivexhkngdtnkrbkone5two
-7skdzgrpcreightwokq
-6znrpdhnine6621four
-xsztwo2gjmqtfqfrjhtzjbeightqhgzbpcdeight
-one597pbr11
-lhnlmjml2onetwoonesix
-86fourdgnbvgsnrd53four
-2dnfour4mhmkxtlnrjone3ninefpthhxn
-1m
-8pmszqtgzcz44four
-bplgrtzvvqhjgdgfourqbt6one
-3three3sixfdtqkmsnc6
-8fsfthree2onebjntcx7bsghgxphp
-three2779sevenfive1zt
-seven7gxntwotwo
-1tmknl
-4fourckhl5pvkjhzqnxp3xzjzcrgbdct
-rzddzgbeightxxmgspvfprpkpmsixtwothree5
-8xdqsjqxddhxqvszjjqbsqgpkfour1dxckbnsgfn
-582jxgfivedmtwo7
-drsoneight61
-9nqhrrtqrsbbjmlpftpggkmsvhd8
-oneeight55four7
-lkgfnd9leight9sevenfourpcxr
-3fourmtmsgtwothfgbxcs2tvvzcsshb8
-2onehtgthreexfnbfrhnhrpq5six
-threetwoonen3fivedbzbkzqdxs
-gjeightwofourqonesix5nine
-54oneights
-threesixckkpbcqtgjninellm4dhvc
-sevengnxhjjmjbstvlp94sevenfiveqprntdkmn
-qchrbptnr4sixfourdzgfxkzsgq55
-lzddtfgthreefive26
-12nine
-cfvscrfive6seven
-kmvpjtmhhv2one8
-5eight342
-frfngfnx1ctxzxfztptxs89sevennkdvbkq4
-vhtbh1twopngjtq
-75kfdrjsnvccninethreebqjh
-rjgbkhrd3three8two
-psgdspjqqqmd5cdpznxfrsshk
-7fourqmtbg5hrgxrhrm8
-threeonepdgrrpblg2xhpqjrbppfive
-sixjtfzlnmninerztjlpcjpcxrj3ms2
-csmqjmrb53sevenninefourthree
-onetwo423
-c5fivethree86fiveeight3
-2pdpllthree53dxbmmrvn276
-onelnhg4hlbsgzhcm1seveneight
-stwoneeightpqzflflfmvmqone7
-86fs3zzsfrn4
-xtlzjxthree9sixtskggjtzkt2
-brjnsc7sixlrmfgzdgktsix5rhtxt
-eight7cb
-hp6one89zpeighttwo
-threenlgmsfzn4
-1msjbpksxqmfoursixthree4three9
-zkhkpttm5seven
-p8
-frjrvnone9two
-5sixpvfmvfivevtr4
-qbptwoneqcdkqqtnmfjrpplseven13one
-5four2one891hvnl
-nineonethree1
-beightwo55sscfxvjmqrbcsix5five
-sixseveneight82m8dlg
-f5six
-fivedsjjnpbmgckfpvbfqmhd7
-eighteightthree7nine1four8
-nine2cnxqxvlzt7frsbmtfcfive5
-one8eightfivejdg742
-twoone6
-jqsrmzj1seveneightsix
-two7five9rfs12threejmg
-rjgggrmxkzrpjmtt4fouronesevenninepppdtd
-257sgqvjghcneighttwo8five
-threepgshzbxvpfivexmlfg176
-lxlncztzvdzvx1hmjgxkv9twonec
-ppfftlnksfmbhntb1twoone4qpgpxjrdqf
-tdrthree5gxfq7gv
-fourmfl8zl
-ckhf9cvcghxj3
-vcnfvsvvrbninemf3jpnbqdv
-37ztslhzzlv6blm86z6
-glgsgtfhhx7gpxfnfckdjhkxsfourhhv
-twoqmtzzktfjs9vpvpfqxtlf1nine
-two8two6twozfgvlrdjj
-seven7k7pcprskqtp5seven
-1bvgceightoneqvhppcfjsf
-4qjonekhqjsprx
-rmeightwosixhhthree484
-6two6five6ninefournine
-one2864onerbcfdfnr8
-threesixoneone3mbz9threestddhjz
-rprmjtmjtmfourzpmfqptwoone533
-one6foursix
-fiveeight9njclrmrksdqonefivelvc
-three1qkrvgcbnxfour
-5ssqddjjmmrkjzgtklztpdnpd
-four7qnnfnvgkzlldmcnnine88
-four58fivesevenztqcxrzzqhgjlzt
-one24onecxxlzllskdtvsevenbq4
-ccjjht34483
-8onefourfour8gqh53szjqrdhzk
-18six
-8vvbqzhkgz84four318
-mzxzsjfour64seven
-t1
-89sixthreexhtbnlcfnthree
-hdxqjnine5xp
-seven542nkngvnndrrlrmfbxdntwonehhc
-ptwone6nb58nine94twocmkf
-six64ninesix73seven
-seven91sfnbjsccqdtzgleighteightwovqr
-vkcvdone49fourkbm1one
-9sevenrg94
-foursixsfvrvhgvc1qvjkj
-fnvtfttwo847
-vgxjts7
-6bxjvpksix5
-qxlpjg38qkmxfivesixeightqcffhsxnrk
-1mgjfrfv8onetwoxrscgjlcdhnine
-rmpvtfkmxnzrfsxtcdj36one
-569fourfivessrblkq
-threethreezvvkdjzkx5xjxnlglfrt9qdkscsdf13
-qcgd4cbrjprvnineqtfcxnninethree
-6six9fhhgnvfghsix
-ccjrrbkj56zqzbsf797mxsq
-3ddqxrm6one
-39four2ninetjcvfzhmgpsmsxrjjseven
-fourtq95fourfourfive9
-threemz96onezsqjzbrb
-txzgzgcc8threejthree1
-four4ninethree6cqfbfffptwo
-one3kntwothreemzklllzfourcjlrnmb
-sixone9fivesix
-8jsddhfppj99
-5threekmxdglktv
-onemxgbhqzjtgcxdmkr994
-2vsgrxcrjbkkp15
-2two7rfvfkzzmpdgqtfourtq5one
-ninecqveight5tntgtm37
-38ngqrvhjkfmcl
-2fiveeight5
-one5ckh4jtjcqcjr54bphzndqrvnine
-8bnine1fourone
-nine1sixpbckqsixthree
-one7zllzvvgklbkgphtpv
-6fivecgrlfcheightonebbonetwo
-dgchmmqfbzcjcnpvttcp6
-1seven73ltpgbts
-1xsdvdt
-qphknjcb4lkzcqdghd3threethree
-8eightjxplnt
-six5fnnrzghlnjsevendmpnnonethreejvmzgkck
-threesix2jjseven
-8twotkzfbzbbfive
-6onehjqdvpbbmgpnzjjbxltwotwochb
-seventhree5four7vgl
-seven9fivefive7lxqsldd
-xjlkbctseven1
-5sevenpslbmmqnrnztgmdtkzf9gbs1
-bsndznhdfjeightonetwo58
-rxzf7n9vb
-4pjhkklkhvsix8
-one11fivetcnzcpzxcssevenseven
-one6eightonesixeightnineeight
-7xgkhtrpmtwo6five48six
-dgs4
-pdb1gtnxthxqeightthree2njhzjtnzfthree
-6bstmrhdhhtgvfbqjq
-xt68
-1seventwo
-79qtjd6
-rhcrhmtmmxcnbjdhqtd7cdblltsljntkbcqnfrchbfbkhclseven
-hnlhz15six263nine8
-gxfvnsdqjdsoneccthxvtbxxzqbzplfldxx9
-3sixgsdt4ninefivemxtzzqrztsix
-onethreeninethreetwo6pldp8
-n88
-sixseventhree5seven1
-jzrzbhvvpg881
-niner6sixthree4
-4sixfour9
-twodm3dhsxlvvrghqbvfpqvqlvtxdjzjhqvzmb8
-one67three17eight
-onefour1
-sevenseven5four23
-qcvddc8rmmmffhjvthree8
-68fmf6
-xcn5
-nineqbqhkxhrfourfive7lftzls
-zkkntfcrpthreefive8five3
-ngnzlh81two5
-ninebkxxrvrnh4five
-7327sevenspjjxxcxbzgsztgnr
-7l7ngrhkvzqftmrkd
-2rbthreedtdlvgfthfive
-onenine5dzvznlkht1zfnbspkg2
-33tpfdsevenfour8four
-19four5
-twotwoone398eight6nine
-dcqgn86sixglgbxnp2
-six9vksix5273
-fivefourseven12sevenjmdhpjpeighteightwolzl
-1fmqcg3lponetwo9
-tlgbv6fqpqbxskfdmqfour7
-9hqbtt6sevenfour5pfgjktbjhzr
-ljlfssmk8pbmdrzd
-ffmthzmtwo67fourfivethreefive
-kjrnrgqfseven2mtcgtwo
-hkgeightwofiveeight3rdtxkfvtwoldvxcdm1
-seven72k52
-xnqf8two7
-sixone5two3
-5eighteight5bsxlgbrpjh
-dzgngckszf8fivekpjdbfl7cxprlclfiveseven
-threesixthreepmglrtrvxkrzzkq59
-fivenine1eight7nine
-9mljfqfjxhzone548
-7soneightpkz
-6qq64gfscshkthh8eightsgcmpstwo
-dsrvbxvgjf8
-7zzndrkdkmeight3zhgnpgfmrnine
-7sixzqmthree5frgxzlkm
-3threefivefbplhjtwo
-rspdqldldtsr7seven7tzzhcbghtr
-1sevenfivejrlzn
-threeeight3cjjmr5
-858shrxcprbzjpblfmqpxxgqsjcvr1one
-zsttpjninezbkxnvzcdhxhprmrxnrqmvl9
-eightfivefour99seven9vlchs
-four1dpgsptmvvqsb
-rzbvrst5rone5
-7eighttwo4sixthreebgpskqdkq99
-vskgbh1pj
-4vpsznm4nine
-onemplzkfckh7pdlqrbeight
-6fourkrxslrpqdsthree9eightczfkk
-2xbmjgjfour5four4four
-fpckvttjznoneptkmtbtgsg12knbzkxgsr68
-twoxmjmqdfxjptwoqzpdcrcfkplklthree3fourfour
-8sixnine
-l6
-rpskpftttthree2bthreeeight5three
-five28fivedpf82eight3eightwoqnl
-lgdgpnrn7mklfpcggninefivejvsix
-vtdpfp21p
-fivefourlnbjf8
-bqnx98sqdpqeight1
-sevenghmdbgvninetwo57
-jx9onetgbjjvhgqvqrstztbthree39
-ptgxlzrp858jkdzgkthreetqlr
-2threebmjmzflthreebrzfxrfive
-twoonekrkkbbjrfdbpx9
-43bf
-eight5five1ninep8three
-fournqvnzhklffivexbxpd5dmshsx1
-fournineeight572
-zx7kqgtqv
-1fivethreevkzvnn9five
-5rjjcz3sixninesixkrjnblg9pnnhzkjd
-97sevencplhfngjpc8four
-onenjgphpfqr8oneninefvhzcpmdmbsix
-threefiveone2snbmscbmkxlcqqqcggflvcgjrnt
-pzzhl5
-xfour2mltvkkclcrzptdfldgone
-4llllgkdft1sdsixeighttsbxtg
-3onesevencrrkrdlbg5
-7eight6fcfive
-xbpzhnp6threetwodflsfr
-lfkjqcvvlcpxbvp8dnnxrjzklj2strggkjxzkncs
-8one2xqjdnine
-ninecdcql828four
-pbfg1sbfxcjvthreesevenhzdtwohnxdoneightsb
-1fbcmzflvkhrkkj3veightonetwo
-4threethree632fourzqczbxz
-1sevenfour38
-mlrjnpd7eightgnjnxhgz5seven
-fiveone9
-two78
-9683klkrcvjz
-nineplcvqlvrninenine95
-148hzeightwor
-ns6fivemzqp6
-58fourxqsqdg8
-rmjrxhzbhnzn6jgpgvjtwo1hone
-xhzphxb1xlqkktxtljmrfour
-five6txgsfvnxqbnxljrblgnvc
-1threelzq
-4gclpljthreerqpbpdhftonetwofivevqm
-six5js
-twobzktcpscjlfbttxbbtgqvrldrksbvxzrxjffh9
-five1142sixninetwo
-8vxclrfive7hxvlgr
-62sixxpnbhlhmnlgctgqnqppdczm
-9zvfzssqhhjqleight3ncm4two7
-cvsix7cts
-eightqnjbnflkqsmdcqrv299
-sixjqlmpkgcmcmcp6qsdpqpdseven8eight
-79gnncbfivethreevgfscv
-sb4gbzcvtp7foursmtdszdrg8
-fourthree6546
-2nzjtvpsr53
-9pc
-nine3eight25eightmeight
-pmninezgk5nine
-xnrthreeseven9threetzmg
-7one5gfbn2
-vtsqhzclv89fh
-6sevenfivefiveeight1
-vxcnbtnine8two4tvttnmfjntxmxnqgbhhlonegvkpgs
-peight5shvjcng2
-szlpphx277nineone
-bhbvtsjpsflkcmktnpqjlzsixhhhxl9xtkbvmszqseven
-nine3five2dmgjkbctnnnsix
-8threexgklkrz1
-fxfrqrxbrkdfivepstvtqhlrnhvqbtzvfnineh6
-five6gzcdrjxngf6zhsvxgeightninegp
-kgqcnddc88eightonetwoeightxs7
-eightsmgmfourmdjzvtd7
-sevenseven836
-sbnrfqzhk7eight
-1hkxbb65two7mh
-dkczbhqtpvcqfrbmcdcrsixsix37jlqfninenbqmtfzcb
-zcqrcpbfttmslbssbpklfrcngmszvvpjqf4rlvqxlnchrxkndbrtxcnm
-7kxmzxbhdqsix8
-13
-lqlbfzxzfkxsdbz3six6
-sevenfscdrdvtjeight9threeffrvxdbc
-fivebnn246dlbbhphqqgm
-hrfqnlcvltfour2
-vtjfour3five4jqtwo1
-fivejkvczdmqzmfourthreetwo6fourtwo
-ninesixsixsix3785
-six3sevenninebcvdltmcvgn
-rdjqktrmtwo8cnvzv49twoneppp
-eightjmcc4onefive3
-3mszqhnzqdhbbplcnq1tmchrgcltnq
-sixsevenfivefour5ninesevennpjqzndjx
-15fiveeight1fourqprkldhs
-one1rbn1lnmdmdf7sixbjxv
-pseightwo3jrvcfiveninefive
-rzvjn16
-55eight7285ninedf
-ninedgone9
-1two9onetwosix6nklsjdbr
-9four8xbgnxgs4
-prqkonexszxfpqr9eighteight84three
-xkgpnzsptwoseven1foursix39
-ntpkrjggj2sixkznljqzljonemvq5four
-4nineeightsevenhgkflgvgqs
-zmchljrjpxoner7tgxjdkmcctzrdcrqvkmlnftvm
-439sevensix7
-91xkrmztdbpkpdxtrzkrtwothree
-tfive11l
-htxzbxmlthreesgmbh4ninenine6onefour
-4dtcxqrv63glbpmznm9
-3shdcdzzqld4sixfxdmnmjlz7
-8strtbonenine7sevenpcqjvqclcc
-nccnc1vjslvtddgcddrfcztqbxvxdnineeight
-826nineninelpvnkxzfive3
-7llqfvftl7
-twobdnbnine3fourbsrvpkqsdjxcvk
-onefivespnhqrxjzmfive6nine5
-9lfpchffgxthvheight
-brqjss6six8six
-sevenrfsix7sixfourfourxbjzvtwo
-cdtwone863
-eightzvn3
-8252nkkndmhpgtqnb
-1pqmbdcrfour4
-263vmbrqqdtrn45ninesix
-sevennine4ldhlmdnhzjqksbkrg62
-eightone5ffprsmqfzq6
-fiveeightnpfbdtdbhtwosix11mghg
-2seven82six3one6
-81five18nineonemmbsj
-4eightbjjjqnc
-sevendstdrhpfxfnnhrddppms9
-kgtptmpfhk4
-seventhree6hllpmnqr
-cpn38vlpclqzqcgpbdmlbzfssx
-96fiveflq
-bqcxmrpzql5vxfnpvtwo74kdhsvlkzz
-pgxqcskz611bzkhmnn46
-fourfrl7mxvtkthreecfkpmxqlxhdf4tcgrp
-3dhzm
-58fivenine1nmhjdzlctj8fplnhmtwonexh
-one69
-fivethreenzsgqpsmhronetwo18
-five866sevenninejbvm
-fourmtnkh4
-9ninelzqf54
-727
-ttwonentrmkxckfxonenine4mdpjhpkbrfzc
-fmsix45fivesix
-767klvdthjtwo
-pnrlxt6hpttnlp
-rbtgqmgmthree44ttvone
-cgspmnlsl47nine85
-threell6dqsnn67
-486mz4mqpgkxlmdkp
-rgvlcpnbnch7flgrm4twofive
-hsevenfourcxseven4three
-87fnbcfftwozxnnqmqtmp
-3qjfnzhhmxt7
-leightwomtzt36sevenhgcfivetwomskfour
-sixsix6nzznseighttflzgcbzcthreek3
-eight4725nrpbxfonetwo
-scfiveeight7three
-onethreezvxbfdklnhone9sixeighteight
-sevenhcone5nineb
-dkmmhkhsmnmtonetwopdcx6seventthhgkdx
-rskzlrdm2six
-one8cstbffccz
-eightsevenzkkhlcxhmxthreetwosixone51
-82pgkjcxmcmv11ninetwoneld
-ftmhgvdrfxdzrbhqx78
-xlsbhctwocvzcxxsixfourtnvjnhrn9one
-6jsdgbtbzsbxvdkdlrdk2btonellsdxzfrvvknsrgml
-fivepkblscprv49qdztfjtwo
-one59795foureight
-five96
-6mqj
-sixtwonhjhcjhmvkjndzphgkb7dbmngxbthdbkqbpeight6
-569
-4svnndr
-xbsfhvsq22three24
-1mms2nbmlsmpkrjvlz5
-gstwo25ldvfzjonetwo4
-mkbsmtrrxljdrxlnrpcrhjtvtmqbzvkld5zvphtjflvmvhqxzrnine
-one59twofive5gkvpjlxczb
-c5ktp7sixfoursix
-mdlrxxfour4pxfour
-78hkbqnggsix2sixnrmx
-nine2mnxlh
-brvkttkjvrp8qpnfgfjhpn
-threeseventtpsmm2eight42
-grrxjpcxstwo19ninek6
-kmprxnf1seven8trnb7
-onexmrjpkhdvmfour7seven
-2fivetncrt
-four5qpbmfxssixbjfdcdsixlcjmhsxx
-two87three43
-hjkrr5nxsczthree5bskmeightln
-18threesixhjqz6four7lcrrzr
-onezfourv1
-rglmnronesix7sixone
-6cffcmlfkfbqgfivegkxsf4
-3twoeight3
-six4five19rpjvktvxlqczkcxttssgxcztk
-7threethreetwospzk4
-gkhgv3
-plhsjbdhchzzhztdgt4dfkxeightngnxtgqqrvgj
-sevensjkvk15qvpckmlh
-znvljxmvjc7eightthree66fourrzgkvrxb
-72pvpmlflqj4two4klbjmbrfxrcs
-mcpvlfpb39
-3sevenlbfrflzeight
-126
-78one4hqphnvntqt
-9rmpzrfsthbfourthreefive4d4
-one7eightthreecsxj24
-ffmk2gvdngdjxzgtwo55275
-2threefour8qtlhnj987
-gxslxqkf4gmpfpqtvnfourf
-3vjmbtpvdzvcpfour8bsppd6
-lfpzvmmnf8six8sixrvmhmg1dcqbc6
-7ppssvcpkpvvp
-48twoxgndlgkfzqndkcdzcnr6hzb6pplx
-sroneight9lxb6sixfivenmmcnh
-tnpdqnqfgs7bhhpponesgmbvrmcsixglddfpbpxvp8
-twogsbzkvslnmfzbt3
-jjlqpfhthree524eight822
-six246fhhczntfvdcxjfqcxzmgdn
-6threexgs7
-njxmonehnzjqfnsgbf3rmmldfive
-one77eightxgdxghzrtgzddr
-ninerxqzqzhjxf5
-4sevensix8onept89
-4onefnnrkljbm84rdeight
-ln3253
-ninekvzvmhvmnj7fourchlfggglbcrjs
-gdhrt7tjmgmqgcbblx98six
-ninefour7onetwomcgjhgcgdl
-fourtwo1fiverd
-1three7twosix
-sevenzgpmc2glhbfcczzg
-3fivesevenfive
-cshghdvkthree18
-19four5hsnsjkmrrsix
-4xcqlfvnxninefourzzhfzkdfdg6mfmp
-tqrjmt9zsctcbkpdlkqd2
-2zvpsevenlhzj86eight
-xkfzftj5nfjlb7onenineone92
-9bqkbsjccmeightninefmnmfour6jstqgfcfdtqr
-ninexlqcltkmdeight64one
-7eightfour7two
-three6tflgzsphcpbqgvmqnvn8
-threejdlgm8293three
-pppm8dzvd8onefourtwo
-ninetfkqhmckv581
-eight91twofourvzbpmf
-1tgrgfourseven
-phpfxdrlcjpshbrhrktwo2kzrcngmsmdfpvlmmbjzbrrxznkv
-57one8two
-fourglsthreenbzdfddhdh3sqkh
-2glpbhskt8526s
-455dxvmvjhh1skbrrf9ck
-ninez6
-pdcsjdkc4nine
-nineonesixsix26qsmkfctbhx
-five9two
-4ktptmhxfivefour5svlfvsgjsvgseven1
-eighteight8ninethreefourlqhln3
-seven3hffspxvklheightrx
-eightjqjhzvzsixfour5llnhdvmf2
-5lptnqzmk99kdqqqjmthreeone
-rv1
-5sixfive
-cninethreeone1sevengpgqdnpk
-4vphpshpsqngthree65fiveeight
-3zkvgntwo3sixtwo
-1gqxgxbdvmrgd64
-threemctclrrzvqzdnmkpgffive3snhxseven
-dfngrsix5nninetwoneng
-7ctbp7hhgtsevennine
-9jrnsp3threehvnzn3
-48onepxlrpf
-threegrhsffmlv5sevenseven
-two7eightthreedmsfeightsslvfour
-xfdljlbdjckkdzczr362
-four7mfppkmklgrmpmt91threenplqff4
-3cszpvddndjfmszrf
-qoneightntdzfsix5lcz
-fnthree1
-two4sixbmrndhsevensvxddjbdgmgdtlncpzph
-9ptssvrgv
-twov5
-4three2xqz3
-xxqrmhzdp2gnxscfourgkbkgntgr
-2nzxdfxcvfive
-sixninebtmtrvpmfnpdvceight3
-four8sixthreedsm9
-9blpvdpfqkghvh
-3oneeighttwo2tflmpdjzq
-fn3oneninesix3n
-jgcd4qnbbxcvjqlthree49bfchjz1
-glj8sixdpbdpbqhh1rvgmbcqx
-threeqfj66
-5qvhpfjkkbhjbkkzrlgfourlzvrvpn2nineq
-3btvbbpvpl7ltf
-bfxmkcn4sixfourglqjtmzlgj2eightfiveeight
-twotqfpfive3eight
-3threebzmcvtknthree8fiveone
-gzkrdr1
-4cgvpfljq4szjk2bxlmn
-tfdkhxtgj9
-one64llx9zjznbtxphn
-7twoninenineseven19qjhhjg3
-cxflp2two2eight
-vrhlzfsnfqzfqf3dcvzhbtpdkqdxn8nine
-bsddhtzbpgn1llfcgm38
-one66twofddhjrkxjssixkeight
-hmsevencnltvthree68twonezmc
-3fsrrn
-twofourseventxbcqzz8p
-4121knflgt
-tplkfivejlvtfm3tmcgsevenseven
-vhhfhsfkqqeightone22four
-98sevenfournine
-nineone199
-2sixnbvpfrdvcctmdzxl
-8gfbsrmhpnsclvrntwosevenseven2three
-3dnhgfvhdffllnine
-3frbnkjjbhrsixonesevenxph7
-five2gmxjthkksfiveonerj2nine
-bjkvk6three5jtccbcvntwothree6
-4snlgnj6ctnzvqmphkzdcj335
-5bhhjhrnzftwonine4
-m8sixone7
-twomrhtklhdsdsglpncmffcqhthree4svxsln7
-sevenmzqn2hstdtfivehjhone
-vqdhc8twocztspvsdpskgxtjhgk
-4fourhthdppjz
-446gfskjqrlvnqbm8xpnvq1
-jzcdttwo8xggone8fivezkzrjzn
-gqfhjhkf7
-ds51sevengpjjnmxtdninetwo9
-twopbqhjnjpkl8mdrkleightrtlrhqn
-3seven3fkb9qcrfkknht8sevensix
-hvzrpbbbeight72jpvkhkjxgvxqjfqfour
-eightthreeonev4vtpnbpfzch1one
-sixdlds5twothree
-eightjtrpdfxvdlkqmrrbxbc6
-5mtqkkxsqf78nineseven
-dkkrkxxonevjqdthreen21ztnzlghmttxmblpp
-ninethree43mrgng6jtjm
-fiveg2three
-6prj9four4rtm21
-one2vgvklpcqnxssjbone1six
-8glktlgcfsevenmkjvone3dgjjfkd8
-threeone6ninefive7three
-zfv2c2four5one6b
-qxtbbtwo7jrdgxlcpxbczxhnpjthreetwogcfl
-vfhgqjfqfc78eight
-1x5
-six5four1four4
-2fiveshtds4oneightsjg
-962seven58two7
-7mrtndknxzlzdkqcfjxgz9f66
-fqckxpqrjk8eighteighttwo6fivejps4
-drvglmnine7three8one7twodxtr
-mbnfjkxptbtjmgcrtkhxjvjhjnine83mpnsixfcmxcbnspx""".split("\n")
+al = """64256   78813
+46941   56838
+47111   50531
+48819   41511
+54871   96958
+97276   63446
+91790   76995
+51405   43195
+99980   46417
+74608   18059
+26255   90566
+47292   78740
+57870   56838
+20660   12418
+35846   57403
+10273   20144
+53825   80257
+24235   20144
+96247   81222
+20579   23330
+91257   50531
+90977   46458
+89849   25379
+31588   54916
+95306   30498
+19816   90566
+16376   67130
+71425   17219
+46872   11652
+58795   95589
+21889   86793
+32431   78740
+67789   81103
+80514   35435
+82909   84785
+19622   95863
+19697   70270
+68663   44785
+50015   23823
+12929   77754
+69610   51839
+22251   19260
+21631   42542
+33909   11338
+33376   77640
+84711   83727
+39566   78146
+81193   29131
+76787   40869
+23431   67122
+16425   59484
+53555   11652
+91852   70424
+82716   29464
+69198   90095
+73950   56838
+78553   13814
+76683   50354
+57334   88209
+10250   11652
+83464   83708
+48986   97034
+92641   86674
+15819   11652
+95589   66052
+86704   33232
+51765   28739
+22901   94525
+30554   24407
+52911   56797
+16610   19172
+61582   56328
+72143   59883
+31523   86674
+84906   33232
+10686   29713
+33650   28792
+90959   54032
+65104   21538
+41031   61958
+47655   81120
+95158   43240
+55203   95701
+90104   78146
+49575   34630
+34391   95064
+86515   34590
+88433   29317
+68336   11652
+51419   87957
+39642   94608
+77354   80257
+69014   56838
+36908   19133
+79182   85056
+75454   61279
+91867   39293
+49077   35991
+93462   64245
+74253   29396
+27275   46231
+59720   24785
+48644   34630
+72553   22482
+76491   84785
+29626   83708
+91194   63803
+90198   11652
+13959   85077
+23736   32206
+52948   33232
+37669   98022
+14648   30619
+48652   84542
+21151   46458
+84345   51839
+76490   98003
+91195   63371
+26786   92083
+94400   86674
+79219   94220
+97207   77691
+12697   26207
+63431   61112
+99271   31600
+59814   38845
+85093   50531
+92295   79925
+22949   72883
+89495   25965
+91065   66254
+34086   87511
+12885   85621
+74260   59815
+24025   82057
+25172   22110
+62041   22110
+27918   59815
+36562   84275
+39884   46417
+20013   94608
+83424   78404
+45508   30387
+67439   93288
+34150   39255
+38887   24407
+22060   83708
+74272   50043
+92701   92014
+49716   94287
+70994   54166
+42441   95589
+99709   35817
+95287   49688
+25178   80257
+93842   26207
+36044   69439
+82059   43382
+41717   99188
+68213   83708
+43746   15226
+53833   84785
+64230   88594
+93381   58789
+99575   47307
+26716   66395
+45505   50531
+89144   22110
+63614   18281
+95569   91688
+15782   59600
+34023   11155
+55077   13983
+36010   86674
+22667   59265
+87203   29518
+47211   38925
+26166   86674
+93656   89592
+61411   97237
+25691   29464
+99193   61958
+14952   52166
+79140   50347
+86855   51839
+42894   56838
+53004   65939
+38462   83708
+56838   11046
+67217   48055
+99027   27091
+27825   85621
+79804   74260
+46417   83708
+26344   94287
+30973   49771
+96212   63142
+79527   18446
+50082   90566
+69079   45826
+73116   15728
+16911   93494
+44304   30973
+72826   26207
+39302   35817
+69575   22743
+49774   33117
+34821   83708
+22517   22110
+73020   94142
+80335   22110
+86703   90095
+25745   19203
+33931   90566
+13846   92012
+94702   73406
+53782   28441
+97672   99475
+10146   90566
+56508   55741
+19950   63567
+70168   90095
+98310   42585
+75870   40634
+45544   30669
+12962   81103
+97837   85475
+79472   46458
+31455   51573
+86396   22110
+23722   63729
+40428   83707
+16797   71876
+57965   17666
+95265   20144
+46522   52636
+25704   46417
+55463   31838
+42902   96138
+33299   51839
+68593   78740
+30229   89654
+69470   80257
+98858   49538
+32058   30267
+38932   80257
+75479   51680
+78015   29642
+99869   78740
+86965   19476
+25049   53152
+74715   31141
+63429   59155
+18062   20399
+26207   86674
+52206   26207
+68643   75696
+96263   13286
+46616   16210
+86333   34630
+58202   26871
+25530   52843
+12914   33232
+60244   11211
+83708   15497
+24040   11652
+34555   66162
+51828   35925
+91619   15875
+31733   39149
+10615   53121
+55557   73143
+76031   74590
+35916   50531
+53439   88449
+64080   17538
+19120   24407
+40634   80257
+59789   66181
+95277   46458
+11655   80257
+57592   32902
+50982   46458
+71349   66868
+61958   11257
+32140   86674
+85705   15767
+17102   34630
+91081   11257
+23685   60701
+14524   78740
+81835   32522
+42372   37673
+46946   40292
+56290   33232
+92785   51839
+58966   90095
+74619   83708
+85111   22110
+41949   19056
+74162   81103
+72982   33232
+49784   30973
+51391   31931
+79122   14488
+12060   34630
+63723   59795
+41490   51839
+50803   26207
+36591   83708
+38309   70540
+46754   88101
+11037   97034
+13947   64788
+26032   81103
+40010   90095
+99903   17166
+76420   25236
+24144   72040
+38907   26207
+55366   78740
+92708   35817
+59598   10155
+57858   67137
+72398   11257
+11870   78146
+62664   20144
+24442   83708
+84343   15767
+48718   43387
+49171   74846
+84359   78404
+46194   92512
+52554   99088
+52275   51680
+54287   50531
+87746   71275
+15802   33232
+74293   95589
+58320   80257
+23301   90566
+59696   81103
+48011   52010
+42024   67461
+11055   78740
+26980   24439
+87406   49013
+62092   26207
+12615   31992
+90566   38439
+43272   51766
+48341   57710
+50382   88030
+27147   94140
+56696   91918
+78336   24407
+90073   49165
+74273   78146
+93329   22110
+95747   92326
+57126   51286
+32590   83708
+20256   10519
+30748   30621
+10324   50356
+36352   73642
+27824   93776
+49226   34630
+57688   61505
+87891   14157
+84037   22179
+95557   68029
+36195   30973
+96408   44068
+19758   50228
+99836   11652
+70462   81673
+17679   36125
+69059   24407
+26323   15767
+91240   33232
+99919   71443
+86280   52008
+56039   35518
+95930   93778
+67682   51839
+13812   71986
+90095   99288
+18723   29078
+85216   57514
+41692   59815
+22463   78404
+61648   35817
+66327   70256
+14307   93014
+54924   57314
+90353   90095
+26875   93056
+93415   81103
+22179   86344
+47961   83708
+96296   35392
+78924   56492
+67437   56838
+68348   13814
+81641   97623
+62062   22110
+19715   51680
+46426   74768
+34537   94380
+34043   11257
+15767   11257
+54986   83520
+78473   13814
+24861   20144
+96415   36199
+73417   90095
+59145   18583
+26491   51839
+33233   53715
+72413   19665
+26945   38265
+79855   85621
+65097   90095
+75600   94608
+74719   82404
+28223   83633
+76079   44824
+12641   82437
+16501   64037
+33232   86771
+51082   24407
+46778   79915
+23344   14263
+74224   43373
+92126   78740
+70835   51839
+48028   78740
+23335   90095
+10216   85770
+10785   90722
+20619   20144
+36624   11652
+97050   99982
+59443   89612
+95673   91083
+53666   49166
+62733   38603
+16479   23682
+53747   33232
+76585   58949
+57399   80257
+36922   78404
+61437   26207
+47374   34630
+78782   50531
+77773   44415
+17089   91050
+35224   71184
+51418   83322
+41315   33232
+31167   35877
+53763   45391
+66810   71249
+91002   51680
+55889   35274
+37895   76943
+19467   43974
+45247   80497
+36058   36587
+50816   56838
+80257   18307
+46458   38828
+88690   22743
+75224   22664
+29730   78740
+30724   74260
+94287   31600
+79592   38828
+12143   40634
+52980   37253
+20128   40666
+15587   88031
+51593   47674
+15120   95589
+35523   15767
+74036   88201
+14273   95589
+59016   46458
+84206   90566
+94407   55634
+71034   70627
+52037   11652
+84283   83708
+69938   69449
+98322   19716
+36339   80257
+33863   67946
+22743   72561
+98490   31869
+83610   70046
+30153   11257
+11993   28955
+24524   56912
+13032   46458
+64286   95589
+32525   72060
+77693   41145
+19263   99012
+72863   97433
+47136   81601
+33414   22743
+44920   15767
+92217   16128
+92591   81103
+14255   78740
+29464   95589
+44406   80975
+21961   29422
+11964   56838
+67721   69886
+26912   80257
+18103   73796
+63426   36273
+37731   34504
+20670   26207
+37836   34630
+40026   78261
+86598   11683
+66945   84905
+59865   94608
+26543   37685
+97590   78404
+35969   51839
+69295   61958
+87933   32529
+76832   34630
+95023   40634
+34630   13814
+41959   70450
+15373   34630
+74526   16292
+89021   82205
+84421   94608
+18127   90095
+18764   26207
+52711   51301
+21814   51839
+78315   33232
+48066   51839
+84284   57734
+86124   60301
+31585   41860
+24181   41123
+87279   13945
+85773   77314
+89304   92827
+78404   11257
+72595   56838
+82587   50244
+92292   98938
+18278   46458
+29200   50531
+42172   17746
+10465   33551
+62391   48241
+95933   68406
+82058   85621
+16904   47580
+29358   94608
+91563   29640
+24356   63687
+41283   33232
+31131   36480
+62331   90566
+39831   73641
+83195   56838
+35817   15767
+47204   52370
+60179   87307
+17930   83708
+59799   38261
+41307   86674
+35269   20144
+21845   93623
+17582   50531
+60576   92995
+51969   19613
+13611   22743
+16291   44315
+14801   85621
+45622   32578
+46893   96499
+18476   59815
+33185   50531
+59345   11652
+85055   44877
+90967   86728
+57081   21645
+67183   65255
+53280   98144
+77972   45453
+55668   34630
+51244   86674
+93800   22110
+35609   76922
+80958   80257
+80957   86674
+23206   68169
+58954   95589
+60801   50531
+24892   65766
+79125   95959
+62436   49340
+51675   13284
+54089   87123
+12332   61958
+93683   84248
+64266   75529
+39695   93315
+75179   78740
+25814   46484
+18896   19911
+69287   85621
+97339   34630
+11257   83708
+24241   84785
+65208   11445
+70111   80239
+28024   55786
+94496   29053
+34214   56838
+15328   30973
+89279   65555
+13814   26207
+59690   61478
+62247   63130
+83234   90566
+61861   59853
+74106   10254
+17328   35817
+57491   48834
+71199   55890
+53791   24218
+68974   31219
+47164   56838
+20523   96595
+16253   31330
+78637   97034
+36563   66886
+97257   56838
+65473   58382
+97846   77390
+63188   64946
+60862   80372
+23343   59815
+25361   87026
+14279   79342
+77188   78404
+35097   99995
+72613   19487
+20971   97034
+27917   20144
+87889   72616
+51839   40258
+27660   72628
+89010   84034
+87829   90566
+25797   11652
+56211   58084
+59788   13115
+92355   22743
+17940   26207
+22822   27211
+44358   45220
+85850   20144
+64268   89540
+13244   94608
+21551   95589
+77129   35809
+31842   11652
+74965   32821
+75323   56838
+10030   49271
+11462   97034
+21160   26207
+14596   73844
+76110   62622
+49881   43463
+21601   51839
+14484   78740
+19562   18451
+59735   46458
+96979   56222
+82261   13814
+45837   57345
+86536   34713
+62288   97704
+41162   72587
+38304   20144
+53617   77493
+59482   81557
+71276   64082
+25857   57114
+16907   82468
+13672   40738
+73551   21978
+52538   24407
+67418   13865
+13242   22110
+12944   13814
+97964   29756
+80310   99455
+21854   56838
+71068   94608
+58327   13814
+43452   61958
+45417   33218
+94608   81103
+98624   73288
+44722   83708
+45104   74178
+67497   34972
+30038   29880
+47272   38828
+83026   25415
+38193   91815
+17684   84785
+86157   95589
+83558   71725
+57785   94608
+40393   36957
+98844   22392
+95198   30276
+21801   69825
+58679   28710
+63987   66512
+23954   38179
+71894   76180
+31700   17531
+75484   65725
+19993   16417
+29343   37383
+94771   18690
+44622   20144
+97057   77068
+60776   13534
+62787   32974
+47964   27153
+19594   94878
+72116   55582
+79318   55418
+61978   64528
+46756   83708
+24796   45078
+66010   95589
+58753   53746
+10193   85621
+57866   31224
+20780   94608
+78482   33232
+89976   22110
+80828   78740
+80205   58782
+22110   22110
+56310   94287
+26068   67268
+90182   47866
+99907   58906
+62372   86537
+17257   94608
+37684   33552
+39830   22110
+89726   33232
+69498   65640
+92985   73920
+68905   20176
+16788   35542
+75897   52187
+48600   81103
+28077   81531
+66913   15772
+79179   22743
+20144   22110
+90754   51839
+88917   91866
+28026   57141
+66940   20144
+81435   22110
+17163   68734
+16474   90566
+48360   36491
+76309   74652
+18920   38506
+11184   89015
+71777   82010
+90858   33232
+58229   56838
+65978   76364
+35211   22867
+65729   93282
+24638   26207
+73424   22110
+88338   81408
+90258   78740
+31600   51010
+60964   11652
+83301   80257
+97515   33232
+56777   92832
+36727   75609
+38828   78740
+17615   26207
+59305   92826
+25980   38168
+11652   47318
+17124   69964
+19321   11652
+16563   42338
+54576   81103
+93884   89753
+32696   85162
+52051   73134
+43866   72475
+17519   97034
+30750   51839
+26771   11652
+81352   85897
+17047   34630
+10065   90566
+77453   94851
+80307   84785
+96001   86674
+54245   38145
+79211   29144
+51138   50916
+14093   22110
+46751   15767
+59076   90566
+24821   94287
+48904   67355
+26437   58054
+39935   35743
+70499   56838
+27755   50838
+16121   19261
+80181   23332
+19883   83708
+46964   70936
+34795   78339
+10705   51839
+76968   33232
+48193   29808
+99215   47551
+31223   93854
+83617   31600
+50966   72994
+12203   14296
+71268   95589
+10187   12480
+28093   90566
+99815   11652
+28987   74681
+51057   24740
+16007   77056
+29380   78420
+66329   62373
+91090   34630
+65100   81103
+92119   21944
+95881   18021
+13538   78404
+67441   25952
+36360   80504
+43095   51834
+58161   40617
+78502   15767
+68347   78740
+57569   72562
+90296   20144
+92799   84785
+73517   68264
+23554   86674
+42370   84785
+11121   90566
+37754   31600
+82632   61958
+32740   95795
+60262   86443
+29286   78404
+25091   71365
+86674   22110
+99481   34630
+57200   82612
+51409   99801
+93094   78404
+85708   34630
+23510   48826
+59715   11652
+55579   80582
+74919   31912
+23040   81110
+55692   61958
+43965   81582
+85806   32371
+29315   83760
+94587   43993
+22351   14835
+38418   21452
+10283   96909
+17138   85621
+17376   41408
+30433   69498
+38485   85095
+71122   61958
+58574   30253
+14545   22068
+69678   73746
+97034   56838
+50531   29464
+75065   86674
+81103   69969
+59842   77885
+73063   90646
+18089   72178
+98634   11652
+38721   37867
+27442   11257
+85621   56133
+67896   44615
+37226   83818
+99638   93555
+98255   83708
+95365   51839
+24536   99780
+43881   80950
+86620   43055
+83679   72460
+40095   78889
+55345   34630
+20969   13814
+62957   86828
+84785   45483
+64585   80830
+58230   31600
+19025   93293
+24033   13972
+87712   78740
+41092   22110
+96433   33232
+54457   84785
+32612   65638
+64105   80257
+78146   26943
+83222   31139
+43536   45129
+93440   50531
+37744   31600
+86030   59327
+42840   81274
+99272   20044
+26779   19115
+59815   97034
+20218   70403
+70051   61958
+95421   55489
+91282   19861
+86074   63272
+13563   32921
+93577   40797
+84563   81103
+68335   86674
+19985   82068
+31843   64244
+51680   80257
+99597   94287
+52944   86674
+46110   56838
+68702   47750
+44893   59180
+19070   47848
+45997   65301
+19990   50531
+49947   59815
+48382   58240
+36527   10338
+50798   20144
+30194   94608
+78740   78404
+67462   51839
+34679   90417
+18013   41914
+83629   46417
+24407   51680
+99828   84785
+36006   86674
+30914   90095
+47918   11257
+64417   70229
+37597   78404""".split(
+    "\n"
+)
