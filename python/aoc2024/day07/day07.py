@@ -1,4 +1,4 @@
-from tqdm import tqdm
+from typing import LiteralString
 from .p01 import al
 
 
@@ -15,35 +15,45 @@ def part1():
 292: 11 6 16 20""".split(
         "\n"
     )
-    part1_ops = [
-        lambda x, y: x + y,
-        lambda x, y: x * y,
-    ]
-
-    ans = sum_valid_ops(tl, valid_ops=part1_ops)
+    ans = sum_valid_ops(tl)
     assert ans == 3749, f"Expected: 3749 vs {ans}"
-    ans = sum_valid_ops(al, valid_ops=part1_ops)
+    ans = sum_valid_ops(al)
     print("Part 1:", ans)
     assert ans == 10741443549536, f"Expected: 10741443549536 vs {ans}"
 
 
-def sum_valid_ops(cl, valid_ops=[]) -> int:
-    def cal(entry):
+def sum_valid_ops(cl: list[LiteralString], part2: bool = False) -> int:
+    def cal(entry: str):
         res, ops = entry.strip().split(":")
         res = int(res)
-        vals = list(map(int, ops.strip().split()))
-        return res * can_eval(vals, res, valid_ops)
+        vals = [int(v) for v in ops.strip().split()]
+        return res * can_eval(vals, res, part2)
 
-    return sum(cal(l) for l in tqdm(cl))
+    return sum(cal(l) for l in cl)
 
 
-def can_eval(operands: list[int], desired_result: int, valid_ops=[]) -> bool:
-    def eval_rest(starting_value=0, ro: list[int] = None) -> bool:
-        if len(ro) == 0:
-            return starting_value == desired_result
-        return any(eval_rest(op(starting_value, ro[0]), ro[1:]) for op in valid_ops)
+def can_eval(operands: list[int], desired_result: int, part2=False) -> bool:
+    def eval_rest(desired_value, ro: list[int]) -> bool:
+        if len(ro) == 1:
+            return desired_value == ro[0]
+        last = ro[-1]
+        head = ro[:-1]
+        if desired_value % last == 0 and eval_rest(desired_value // last, head):
+            return True
+        if desired_value > last and eval_rest(desired_value - last, head):
+            return True
+        if part2:
+            last_str = str(last)
+            dv_str = str(desired_value)
+            if (
+                len(dv_str) > len(last_str)
+                and dv_str.endswith(last_str)
+                and eval_rest(int(dv_str[: -len(last_str)]), head)
+            ):
+                return True
+        return False
 
-    return eval_rest(0, operands)
+    return eval_rest(desired_result, operands)
 
 
 def part2():
@@ -59,14 +69,9 @@ def part2():
 292: 11 6 16 20""".split(
         "\n"
     )
-    part2_ops = [
-        lambda x, y: x + y,
-        lambda x, y: x * y,
-        lambda x, y: int(str(x) + str(y)),
-    ]
-    ans = sum_valid_ops(tl, valid_ops=part2_ops)
+    ans = sum_valid_ops(tl, part2=True)
     assert ans == 11387, f"Expected: 11387 vs {ans}"
-    ans = sum_valid_ops(al, valid_ops=part2_ops)
+    ans = sum_valid_ops(al, part2=True)
     print("Part 2:", ans)
     assert ans == 500335179214836, f"Expected: 500335179214836 vs {ans}"
 
