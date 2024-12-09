@@ -1,4 +1,4 @@
 alias aoc_day="date +%d"
 alias aocd="cd day\$(aoc_day)"
-alias aot="python sol.py < \$(aoc_day).in"
-alias aoc="python sol.py < \$(aoc_day).txt"
+alias aot="pypy3 sol.py < \$(aoc_day).in"
+alias aoc="pypy3 sol.py < \$(aoc_day).txt"
